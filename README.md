@@ -30,7 +30,7 @@ The dataset (`persianmovies.csv`) contains metadata for Persian and English movi
 1. **Data Preprocessing**:
    - Handle missing and null values.
    - Balance the dataset by adjusting over- and under-represented genres.
-   - Split the dataset into training and test subsets using a fixed random seed for reproducibility.
+   - Split the dataset into training and test subsets.
 
 2. **Exploratory Data Analysis (EDA)**:
    - Perform univariate and multivariate analyses.
